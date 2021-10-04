@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.d.ward001@googlemail.com
+	name = Joseph Ward
